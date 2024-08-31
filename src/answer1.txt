@@ -1,0 +1,40 @@
+12
+12 is composite
+The positive factors of 12 are: 1, 2, 3, 4, 6, 12
+The prime factorization of 12 is: 2 ** 2 * 3
+
+3
+3 is prime
+
+1
+1 is neither prime nor composite
+
+1
+1 is neither prime nor composite
+
+3
+3 is prime
+
+16
+16 is composite
+The positive factors of 16 are: 1, 2, 4, 8, 16
+The prime factorization of 16 is: 2 ** 4
+
+12
+12 is composite
+The positive factors of 12 are: 1, 2, 3, 4, 6, 12
+The prime factorization of 12 is: 2 ** 2 * 3
+
+150
+150 is composite
+The positive factors of 150 are: 1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150
+The prime factorization of 150 is: 2 * 3 * 5 ** 2
+
+1000
+1000 is composite
+The positive factors of 1000 are: 1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 125, 200, 250, 500, 1000
+The prime factorization of 1000 is: 2 ** 3 * 5 ** 3
+
+101
+101 is prime
+
